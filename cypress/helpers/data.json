@@ -1,0 +1,12 @@
+{
+	"login_succ":"german@dolnikov.ru",
+	"login_fail":"greman@dolnikov.ru",
+	"login_invalid":"germandolnikov.ru",
+	"login_upperCase":"GerMan@Dolnikov.ru",
+	"pass_succ":"iLoveqastudio1",
+	"pass_fail":"iLoveqastudio2",
+	"msg_auth_succ":"Авторизация прошла успешно",
+	"msg_auth_fail":"Такого логина или пароля нет",
+	"msg_auth_invalid":"Нужно исправить проблему валидации",
+	"msg_recoveryPass_succ":"Успешно отправили пароль на e-mail"
+}
